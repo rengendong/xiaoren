@@ -4,16 +4,7 @@ adad
 dad
 111111111
 222222222
-33333333From 07dca2eddebe940ba8c40b71e195f06eda43efe4 Fri, 2 Aug 2019 10:00:10 +0800
-From: Administrator <Administrator@QH-20181128INWP>
-Date: Fri, 2 Aug 2019 09:51:56 +0800
-Subject: [PATCH] 1
 
-diff --git a/sp01-commons/test b/sp01-commons/test
-new file mode 100644
-index 0000000..438152a
---- /dev/null
-+++ b/sp01-commons/test
 @@ -0,0 +1,5 @@
 +fsf
 +fafd
